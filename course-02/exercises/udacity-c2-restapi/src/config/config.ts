@@ -14,12 +14,12 @@ export const config = {
   "jwt": {
     "secret": " "
   },
-  /*
+  
   "prod": {
     "username": "",
     "password": "",
     "database": "",
     "host": "",
     "dialect": "postgres"
-  }*/
+  }
 };
